@@ -1,0 +1,17 @@
+/* 🔹 Contact Section */
+#contact {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 40px;
+}
+#contact p {
+  font-size: 1.1rem;
+  color: #333;
+}
+#contact a {
+  text-decoration: none;
+  color: #007bff;
+}
+#contact a:hover {
+  text-decoration: underline;
+}

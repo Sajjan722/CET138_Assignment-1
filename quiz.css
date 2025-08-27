@@ -1,0 +1,7 @@
+.option {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.option input {
+  margin-right: 8px;
+}
